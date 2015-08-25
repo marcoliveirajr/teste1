@@ -34,7 +34,7 @@ layers:
         draw:
             polygons:
                 order: 2
-                color: '#88bbee'
+                color: '#ff0000'
 
     roads:
         data: { source: osm }
